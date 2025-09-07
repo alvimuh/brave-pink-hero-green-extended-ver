@@ -6,7 +6,7 @@
 - There was controversy protesting the use of the pink color, which gave me the idea: what if I created a similar website but with customizable color tones according to the user’s preference.
 - I think the campaign itself was very good — using non-harmful and creative methods — but once again, it ended up causing division among Indonesians.
 - In the end, I decided not to publish the website to avoid sparking new conflict.
-- Instead, I only published the source code as a technical learning resource for developers.
+- I only published the source code as a technical learning resource for my dev mates.
 
 ## Getting Started
 
