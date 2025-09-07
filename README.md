@@ -2,7 +2,7 @@
 
 ## Objective
 
-- Brave Pink + Hero Green, which became one of the elements of the 17+8 People’s Demands campaign towards the Indonesian Parliament (DPR).
+- This project inspired by https://brave-pink-hero-green.lovable.app website which became one of the elements of the 17+8 People’s Demands campaign towards the Indonesian Parliament (DPR).
 - There was controversy protesting the use of the pink color, which gave me the idea: what if I created a similar website but with customizable color tones according to the user’s preference.
 - I think the campaign itself was very good — using non-harmful and creative methods — but once again, it ended up causing division among Indonesians.
 - In the end, I decided not to publish the website to avoid sparking new conflict.
